@@ -1,0 +1,2 @@
+# Modelo_de_Un_diodo_para_Paneles_fotovoltaicos1
+Modelo_de_Un_diodo_para_Paneles_fotovoltaicos1
